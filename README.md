@@ -7,7 +7,39 @@ Intro
 
     -Having difficulties with stirng interpolation with 'puts', maybe it doesn't take variables outside it's scope? Will come back to this. 
         -DISCOVERED SYNTACTICAL ISSUE! EVEN THOUGH PUTS HAS SINGLE QUOTATIONS, IF THERE IS STRING INTERPOLATION USE DOUBLE QUOTES!! 
-    gets - 
+        - Made capitalization for Name...
+
+        -Conditionals...
+
+    -gets - Would you name your Child...prompt (R = Ruby, or J = JavaScript) enter R or J?
+        if baby_name = R -" " [player name, babyname]
+
+        answer_question = r
+            def prompt Ruby letter
+            if letter = r
+            enter "You've #{playername} have entered Ruby Mansion"
+            end
+        #puts 
+            player_name = if baby = r move on else 
+         Entered the Ruby mansion, must find your way to MATZ.
+
+        else
+        
+         if answered JavaScript- Disappointed MATZ, chanting MINASWAN they must be dealt with, as lastly hearing MINASWAN must be dealt with....#{playName}.pop
+
+        Conditionals throughout...no Math for now...Optional
+        elseif ruby with You chose the wrong answer which resulted in a swift Death, making MATZ cry, therefore you must die....you hear people screaming cheering MINASWAN, MINASWAN..
+         (ex...JavaScript auto Death.)
+
+    -Finishing maze- Upon finishing maze-> Question-MATZ shake hand{
+            return " Prize??"
+    } else{
+        get the ruby
+        return "You are now an Anonymous function"
+    } get the ruby
+    "You #{PlayerName} must now submit version four, before Christmas!!"
+
+    Rooms...
 
 Game Rules 
 ** something to come back to later - Health Points = 3
