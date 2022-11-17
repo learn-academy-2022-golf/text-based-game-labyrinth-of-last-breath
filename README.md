@@ -4,6 +4,9 @@ Intro
     puts - Your plane bound for Fiji has been .reversed to Ijif and you have entered the Rubyverse. 
     player variable gets.chomp - For mustering purposes tell us your name
     puts - Thank you #{player}, this may be the last gem you have to offer, answer the next question carefully.
+
+    -Having difficulties with stirng interpolation with 'puts', maybe it doesn't take variables outside it's scope? Will come back to this. 
+        -DISCOVERED SYNTACTICAL ISSUE! EVEN THOUGH PUTS HAS SINGLE QUOTATIONS, IF THERE IS STRING INTERPOLATION USE DOUBLE QUOTES!! 
     gets - 
 
 Game Rules 
