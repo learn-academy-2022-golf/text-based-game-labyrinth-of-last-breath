@@ -52,3 +52,19 @@ Movement actions
     F=leave (auto death with scary ascii art pop up)
     E=enter next room
 
+Questions:
+Can you define a block with do end?  How do you define a block? Answer Yes or No
+    answer: Yes
+    Curly Braces must be used on a single line of code when defining a block? True or False
+
+Ruby was release on December 21st, 1995. Answer True or False
+    answer: True
+
+Does Ruby come pre-installed on Mac computers? IRB
+
+Which programming language is better?  R = Ruby, or J = JavaScript
+
+Does .chomp take a bite of your sandwich or does it remove the extra line break character? 
+
+If given an array of numbers how do you return an array of numbers in accending order?
+    andswer:
